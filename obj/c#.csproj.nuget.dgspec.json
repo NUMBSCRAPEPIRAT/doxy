@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\c#.csproj": {}
+    "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\dz\\c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\c#.csproj": {
+    "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\dz\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\c#.csproj",
+        "projectUniqueName": "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\dz\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\c#.csproj",
+        "projectPath": "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\dz\\c#.csproj",
         "packagesPath": "C:\\Users\\Леново\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\obj\\",
+        "outputPath": "C:\\Users\\Леново\\OneDrive\\Рабочий стол\\c#\\dz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Леново\\AppData\\Roaming\\NuGet\\NuGet.Config"
